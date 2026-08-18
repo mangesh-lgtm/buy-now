@@ -1,0 +1,150 @@
+{
+  "products": [
+    {
+      "id": "p1",
+      "name": "Wireless Noise-Cancelling Headphones Pro",
+      "brand": "SoundCore",
+      "model": "WH-1000",
+      "price": 7999,
+      "currency": "₹",
+      "source": "ElectroStore",
+      "score": 92,
+      "image": null,
+      "specs": {
+        "Driver Size": "40mm",
+        "Battery": "30 hours",
+        "Bluetooth": "5.3",
+        "Weight": "250g",
+        "Noise Cancellation": "Adaptive",
+        "Codec": "LDAC, AAC"
+      },
+      "matchReasons": [
+        { "t": "Meets budget", "s": "ok" },
+        { "t": "Noise cancellation found", "s": "ok" },
+        { "t": "Battery exceeds requirement", "s": "ok" },
+        { "t": "Brand preference matched", "s": "ok" }
+      ],
+      "lowest": 7499,
+      "lowestSource": "MegaDeals",
+      "otherPrices": [
+        { "s": "ElectroStore", "p": 7999 },
+        { "s": "MegaDeals", "p": 7499 },
+        { "s": "TechZone", "p": 8299 },
+        { "s": "GadgetHub", "p": 8499 }
+      ],
+      "available": true
+    },
+    {
+      "id": "p2",
+      "name": "Premium Over-Ear Wireless Headphones",
+      "brand": "AudioMax",
+      "model": "AM-850",
+      "price": 6499,
+      "currency": "₹",
+      "source": "MegaDeals",
+      "score": 78,
+      "image": null,
+      "specs": {
+        "Driver Size": "38mm",
+        "Battery": "25 hours",
+        "Bluetooth": "5.2",
+        "Weight": "280g",
+        "Noise Cancellation": "Active",
+        "Codec": "AAC, SBC"
+      },
+      "matchReasons": [
+        { "t": "Meets budget", "s": "ok" },
+        { "t": "Noise cancellation found", "s": "ok" },
+        { "t": "Battery below preference", "s": "warn" },
+        { "t": "Information unavailable", "s": "warn" }
+      ],
+      "lowest": 6299,
+      "lowestSource": "TechZone",
+      "otherPrices": [
+        { "s": "MegaDeals", "p": 6499 },
+        { "s": "TechZone", "p": 6299 },
+        { "s": "ElectroStore", "p": 6999 }
+      ],
+      "available": true
+    },
+    {
+      "id": "p3",
+      "name": "Studio Quality Wireless Headphones",
+      "brand": "BassKing",
+      "model": "BK-X1",
+      "price": 11999,
+      "currency": "₹",
+      "source": "GadgetHub",
+      "score": 85,
+      "image": null,
+      "specs": {
+        "Driver Size": "50mm",
+        "Battery": "40 hours",
+        "Bluetooth": "5.3",
+        "Weight": "265g",
+        "Noise Cancellation": "Hybrid",
+        "Codec": "LDAC, aptX HD, AAC"
+      },
+      "matchReasons": [
+        { "t": "Exceeds budget", "s": "warn" },
+        { "t": "Noise cancellation found", "s": "ok" },
+        { "t": "Premium driver size", "s": "ok" },
+        { "t": "Extended battery life", "s": "ok" }
+      ],
+      "lowest": 11499,
+      "lowestSource": "ElectroStore",
+      "otherPrices": [
+        { "s": "GadgetHub", "p": 11999 },
+        { "s": "ElectroStore", "p": 11499 },
+        { "s": "MegaDeals", "p": 11799 }
+      ],
+      "available": true
+    },
+    {
+      "id": "p4",
+      "name": "Lightweight Bluetooth Headphones",
+      "brand": "SoundCore",
+      "model": "WH-Lite",
+      "price": 4999,
+      "currency": "₹",
+      "source": "TechZone",
+      "score": 65,
+      "image": null,
+      "specs": {
+        "Driver Size": "32mm",
+        "Battery": "20 hours",
+        "Bluetooth": "5.0",
+        "Weight": "180g",
+        "Noise Cancellation": "None",
+        "Codec": "SBC, AAC"
+      },
+      "matchReasons": [
+        { "t": "Meets budget", "s": "ok" },
+        { "t": "No noise cancellation", "s": "warn" },
+        { "t": "Brand preference matched", "s": "ok" },
+        { "t": "Limited codec support", "s": "warn" }
+      ],
+      "lowest": 4799,
+      "lowestSource": "MegaDeals",
+      "otherPrices": [
+        { "s": "TechZone", "p": 4999 },
+        { "s": "MegaDeals", "p": 4799 },
+        { "s": "ElectroStore", "p": 5199 }
+      ],
+      "available": true
+    }
+  ],
+  "history": [
+    { "date": "Jan 1",  "price": 8999 },
+    { "date": "Jan 15", "price": 8499 },
+    { "date": "Feb 1",  "price": 8999 },
+    { "date": "Feb 15", "price": 7999 },
+    { "date": "Mar 1",  "price": 8299 },
+    { "date": "Mar 15", "price": 7799 },
+    { "date": "Apr 1",  "price": 7999 },
+    { "date": "Apr 15", "price": 7499 },
+    { "date": "May 1",  "price": 7999 },
+    { "date": "May 15", "price": 7699 },
+    { "date": "Jun 1",  "price": 7999 }
+  ]
+}
